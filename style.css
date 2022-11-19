@@ -33,13 +33,13 @@
   padding: 10px 0;
   color: white;
   text-align: center;
+  transition: all 0.2s ease-in-out;
 }
 
 .menu-item:hover {
   padding: 15px 0;
   width: 160px;
   background-color: #4cc3c3;
-  transition: all 0.2s ease-in-out;
 }
 
 /* -------- MAIN PART: ------------ */
